@@ -611,14 +611,6 @@
     "tabs_Waa9zt": {
       "type": "tabs",
       "blocks": {
-        "tab_kNhjBC": {
-          "type": "tab",
-          "settings": {
-            "title": "Contenu du Kit Micro-Infusion Sérum Lift Pro",
-            "content": "<p>Chaque kit de Micro-Infusion est conçu pour un nombre précis de traitements. Les embouts à micro-aiguilles sont <strong>stériles et utilisables 3 fois maximum, ils doivent être nettoyer et desinfecté entre chaque utilisation</strong>, garantissant une hygiène irréprochable et des résultats optimaux.</p><p><strong>Contenu de chaque kit :</strong></p><ul><li><strong>Cure d’1 mois</strong> : 1 embouts stériles + 2 flacons de sérum (2 traitements)</li><li><strong>Cure de 2 mois</strong> : 2 embouts stériles + 4 flacons de sérum (4 traitements)</li><li><strong>Cure de 3 mois</strong> : 3 embouts stériles + 6 flacons de sérum (6 traitements)</li></ul><p></p>",
-            "page": ""
-          }
-        },
         "tab_qpeWfc": {
           "type": "tab",
           "settings": {
@@ -627,35 +619,25 @@
             "page": ""
           }
         },
-        "tab_GUd9zE": {
-          "type": "tab",
-          "settings": {
-            "title": "Est-ce indolore et sans danger ?",
-            "content": "<p>Grâce à ses <strong>micro-aiguilles ultra-fines de 0,05 mm</strong>, aussi fines qu’un cheveu, l’application est <strong>quasiment imperceptible</strong> et <strong>100 % indolore</strong> ! La plupart des utilisateurs ressentent simplement un léger picotement.</p><p>Notre <strong>système de micro-infusion</strong> est <strong>approuvé par des dermatologues</strong>, <strong>facile à utiliser</strong>, <strong>stérile</strong>, et formulé <strong>sans tests sur les animaux, sans sulfates ni parabènes</strong>.</p><p>De plus, notre sérum est composé d’ingrédients <strong>haut de gamme rigoureusement sélectionnés</strong>, respectant <strong>les normes de qualité les plus strictes</strong> du secteur et garantissant <strong>zéro risque d’effets indésirables</strong>.</p><p>✔ <strong>Sans parfum</strong><br/>✔ <strong>Non testé sur les animaux</strong><br/>✔ <strong>Sans BHA</strong><br/>✔ <strong>Sans parabènes</strong></p>",
-            "page": ""
-          }
-        },
         "tab_aQDKUA": {
           "type": "tab",
           "settings": {
-            "title": "30 jours Satisfait ou Remboursé",
-            "content": "<p>Essayer le kit anti âge ceralyne sans risque <strong>pendant 30 jours</strong>. Si vous n'êtes pas satisfait vous avez la possibilité de le retourner et vous recevrez <strong>un remboursement</strong>.</p>",
+            "title": "30 Tage Zufrieden oder Geld zurück",
+            "content": "<p>Probieren Sie die Leniva Anti-Leck-<strong>Höschen 30 Tage</strong> lang ohne Risiko aus. Wenn Sie nicht zufrieden sind, haben Sie die Möglichkeit, es zurückzugeben und erhalten <strong>eine Rückerstattung</strong>.</p>",
             "page": ""
           }
         },
         "tab_dkjrUh": {
           "type": "tab",
           "settings": {
-            "title": "Service Client 7J/7",
-            "content": "<p>Notre service client est à votre écoute 7J/7.<br/></p><p>Vous pouvez nous contacter par en utilisant l'onglet \"Contact\" de notre boutique ou par email à l'adresse contact@ceralyne.fr</p>",
+            "title": "Kundenservice 7/7",
+            "content": "<p><br/>Unser Kundenservice steht Ihnen 7 Tage die Woche zur Verfügung.Sie können uns über den Reiter \"Kontakt\" in unserem Shop oder per E-Mail an contact@luniva.de kontaktieren.</p>",
             "page": ""
           }
         }
       },
       "block_order": [
-        "tab_kNhjBC",
         "tab_qpeWfc",
-        "tab_GUd9zE",
         "tab_aQDKUA",
         "tab_dkjrUh"
       ],
