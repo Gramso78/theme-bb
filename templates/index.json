@@ -493,18 +493,18 @@
           "type": "badges",
           "settings": {}
         },
-        "price": {
-          "type": "price",
-          "settings": {
-            "show_taxes_notice": false
-          }
-        },
         "image_pRggRB": {
           "type": "image",
           "disabled": true,
           "settings": {
             "alignment": "center",
             "max_width": 500
+          }
+        },
+        "price_xPjJmg": {
+          "type": "price",
+          "settings": {
+            "show_taxes_notice": false
           }
         },
         "liquid_jnATdX": {
@@ -578,8 +578,8 @@
         "liquid_UqCNKi",
         "title",
         "badges",
-        "price",
         "image_pRggRB",
+        "price_xPjJmg",
         "liquid_jnATdX",
         "image_h9L7gC",
         "rating",
