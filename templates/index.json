@@ -615,7 +615,7 @@
           "type": "tab",
           "settings": {
             "title": "Composition Sérum Peptide Ceralyne",
-            "content": "<p><strong>Composition du sérum :</strong></p><ul><li>Acide hyaluronique</li><li>Vitamine C</li><li>Collagène</li><li>Peptides</li><li>Centella</li><li>Oligopeptides</li><li>Glycyrrhizine<br/></li></ul><p><strong>Notre sérum est :</strong></p><ul><li>Sans Paraben</li><li>Sans Sulfate</li><li>Vegan</li><li>Organique</li><li>Sans parfum</li></ul>",
+            "content": "<p><strong>Zusammensetzung des Luniva Slips :</strong></p><ul><li>100% hypoallergene Baumwolle</li><li>Mehrschichtige,saugfähige Membran</li><li>Antibakterielles Futter</li><li>Atmungsaktive,wasserdichte Barriere</li><li>Natürliche geruchshemmende Faser<br/><br/><br/></li></ul><p><strong> Unser Slip ist: :</strong></p><ul><li>Parfümfrei</li><li>Giftfrei</li><li>Ohne Nanopartikel</li><li>Wiederverwendbar</li><li>Vegan</li><li>Ökologisch</li><li>Ultraweich</li><li>Dermatologisch getestet</li></ul>",
             "page": ""
           }
         },
@@ -641,6 +641,7 @@
         "tab_aQDKUA",
         "tab_dkjrUh"
       ],
+      "custom_css": [],
       "settings": {
         "full_width": true,
         "content_size": "medium",
