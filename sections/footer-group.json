@@ -99,8 +99,8 @@
         "text": {
           "type": "text",
           "settings": {
-            "title": "Nous contacter",
-            "content": "<p><strong>Service client ;</strong></p><p>Notre équipe est disponible pour répondre à vos questions sept jours sur sept.<br/><br/>Du lundi au vendredi : 9h – 12h et 14h – 18h<br/>Le samedi et dimanche : 10h – 12h. </p><p>N’hésitez pas à nous contacter !</p>",
+            "title": "Kontaktieren Sie uns",
+            "content": "<p><strong>Kundenservice:</strong><br/><br/>Unser Team steht Ihnen sieben Tage die Woche zur Verfügung, um Ihre Fragen zu beantworten.<br/><br/>Montag bis Freitag: 9:00 - 12:00 Uhr und 14:00 - 18:00 Uhr<br/><br/>Samstag und Sonntag: 10:00 - 12:00 Uhr. <br/><br/>Zögern Sie nicht, uns zu kontaktieren!</p>",
             "enable_follow_on_shop": false
           }
         }
