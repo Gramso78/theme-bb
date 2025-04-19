@@ -336,10 +336,11 @@
         "item_7BdeiK": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/717dbfb5-3f49-4f5b-bded-dbcee3aa022d.webp",
             "column_size": "3",
-            "title": "Laura",
+            "title": "Violet S.",
             "heading_tag": "h4",
-            "content": "<p><em>\"Pour celles qui se demandent, ce n'est pas douloureux ! En seulement quatre applications, j’ai l’impression d’avoir retrouvé la peau de mes 30 ans ! Mon teint est lumineux, ma peau est plus lisse et plus ferme. Je suis ravie\"</em></p>",
+            "content": "<p><em>\" </em>Ich habe lange nach einer Alternative zu Binden gesucht – Luniva ist meine Rettung! Die Slips sind angenehm zu tragen, absolut auslaufsicher und super pflegeleicht.<em>\"</em></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -348,10 +349,11 @@
         "item_JJLm4U": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/250a09e4-76b6-4f3e-8442-6238b8d5f573.webp",
             "column_size": "3",
-            "title": "Marie",
+            "title": "Hannah W.",
             "heading_tag": "h4",
-            "content": "<p><em>\"J'avais peur que ce soit douloureux, mais pas du tout ! Je ne supportais plus mes rides du front et pensais à un traitement en clinique, puis j’ai essayé Ceralyne. Je suis tellement heureuse !\"</em></p>",
+            "content": "<p><em>\"</em>Die Kombination aus Funktionalität und Eleganz ist perfekt. Ich fühle mich geschützt und trotzdem feminin. Das Material ist weich und sehr hochwertig.\"</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -360,10 +362,11 @@
         "item_GECyWQ": {
           "type": "item",
           "settings": {
-            "column_size": "3",
-            "title": "Agathe",
+            "image": "shopify://shop_images/Adfe9828c997c48fdbc51e9f26e011bedL.jpg_-_1.webp",
+            "column_size": "4",
+            "title": "Zoey R.",
             "heading_tag": "h4",
-            "content": "<p><em>\"Je pensais que le laser était ma seule solution, mais grâce à la micro-infusion, ma peau est enfin uniforme et éclatante ! Et en plus, le traitement est indolore !\"</em></p>",
+            "content": "<p><em>\"</em>Meine Tochter nutzt sie für ihre ersten Perioden – sie fühlt sich sicher und wohl. Für mich als Mutter ist das ein großer Pluspunkt.\"</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -373,9 +376,9 @@
           "type": "item",
           "settings": {
             "column_size": "3",
-            "title": "Mélanie",
+            "title": "Bella K.",
             "heading_tag": "h4",
-            "content": "<p><em>\"Dès la première application, j’ai remarqué que les ridules autour de mes lèvres commençaient à s’estomper. Après environ un mois, mes lèvres étaient plus lisses et repulpées.\"</em></p>",
+            "content": "<p>\"Sehr angenehm zu tragen. Ich bestelle direkt nach.\"</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -385,9 +388,9 @@
           "type": "item",
           "settings": {
             "column_size": "3",
-            "title": "Sylvie",
+            "title": "Gabriella O.",
             "heading_tag": "h4",
-            "content": "<p><em>\"C’est incroyable ! Je n’aurais jamais cru que mes pattes d’oie disparaîtraient aussi rapidement et que l’application serait si simple\"</em></p>",
+            "content": "<p><em>\"</em>Selbst mein Freund meinte: „Sieht gar nicht aus wie Periodenunterwäsche“. </p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -397,9 +400,9 @@
           "type": "item",
           "settings": {
             "column_size": "3",
-            "title": "Brigitte",
+            "title": "Eliana L.",
             "heading_tag": "h4",
-            "content": "<p><em>\"Je détestais les rides et la peau relâchée sur mon cou, et le seul produit qui a vraiment fait la différence, c’est celui-ci. Ma peau est tellement lisse et ferme que le résultat est bluffant !\"</em></p>",
+            "content": "<p>\"Etwas teurer, aber definitiv jeden Cent wert.\"</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -409,9 +412,9 @@
           "type": "item",
           "settings": {
             "column_size": "3",
-            "title": "Estelle",
+            "title": "Autumn U",
             "heading_tag": "h4",
-            "content": "<p><em>\"Les pattes d’oie autour de mes yeux étaient mon plus grand complexe, mais en quelques semaines, elles ont pratiquement disparu. Je le recommande à toute mes familles\"</em></p>",
+            "content": "<p><em>\"</em>Ich musste mich erst an das Gefühl gewöhnen, aber nach 2 Tagen war ich überzeugt.\"</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -421,9 +424,9 @@
           "type": "item",
           "settings": {
             "column_size": "3",
-            "title": "Tiphaine",
+            "title": "Leah X.",
             "heading_tag": "h4",
-            "content": "<p><em>\"Depuis que j'utilise ce produit, ma peau a été transformée. Les résultats sont visibles rapidement, et je ne peux plus m’en passer. C’est devenu un indispensable dans ma routine beauté\"</em></p>",
+            "content": "<p>\"Ich benutze die Slips tagsüber im Büro und nachts – kein Auslaufen, kein Geruch, einfach angenehm. Ich bin begeistert.\"</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -433,9 +436,9 @@
           "type": "item",
           "settings": {
             "column_size": "3",
-            "title": "Christelle",
+            "title": "Claire C.",
             "heading_tag": "h4",
-            "content": "<p><em>\"À 71 ans, je pensais qu’il n’y avait plus rien à faire pour les rides sur mon décolleté. Mais ce produit a fait des merveilles\"</em></p>",
+            "content": "<p>\"Ich trage sie auch an normalen Tagen – sie sind einfach bequemer als jede Unterwäsche, die ich bisher hatte.\"</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -452,9 +455,6 @@
         "item_EwNkYx",
         "item_yViHK3",
         "item_JUW7xR"
-      ],
-      "custom_css": [
-        ".section-full {padding-top: 0px;}"
       ],
       "settings": {
         "full_width": true,
@@ -656,171 +656,6 @@
         "heading_gradient": ""
       }
     },
-    "multi_column_wTJTNc": {
-      "type": "multi-column",
-      "blocks": {
-        "item_xiaYUR": {
-          "type": "item",
-          "settings": {
-            "column_size": "3",
-            "title": "Peptides de collagène",
-            "heading_tag": "h4",
-            "content": "<p>Stimulent la production de collagène pour une peau plus ferme et élastique. Réduisent l’apparence des ridules et des rides. Soutiennent la structure de la peau et lissent la texture.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_QdbeiM": {
-          "type": "item",
-          "settings": {
-            "column_size": "3",
-            "title": "Élastine",
-            "heading_tag": "h4",
-            "content": "<p>Complément naturel du collagène, elle assure souplesse et élasticité à la peau, prévenant le relâchement cutané et aidant à maintenir un teint rebondi et résilient face aux agressions extérieures.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_dPL9Rr": {
-          "type": "item",
-          "settings": {
-            "column_size": "3",
-            "title": "Acide hyaluronique",
-            "heading_tag": "h4",
-            "content": "<p>Hydratation en profondeur. Favorise la réparation et la régénération de la peau. Repulpe la peau et réduit l’apparence des ridules et des rides.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_LV4cm8": {
-          "type": "item",
-          "settings": {
-            "column_size": "3",
-            "title": "Glycérine",
-            "heading_tag": "h4",
-            "content": "<p>Renforce la barrière protectrice naturelle de la peau. Lisse et adoucit la peau. Protège contre la sécheresse et les irritations.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_6nijje": {
-          "type": "item",
-          "settings": {
-            "column_size": "3",
-            "title": "Squalane",
-            "heading_tag": "h4",
-            "content": "<p>Un puissant émollient naturel qui restaure la barrière cutanée, nourrit intensément sans effet gras, protège contre la déshydratation et aide la peau à retrouver douceur et éclat naturel.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        }
-      },
-      "block_order": [
-        "item_xiaYUR",
-        "item_QdbeiM",
-        "item_dPL9Rr",
-        "item_LV4cm8",
-        "item_6nijje"
-      ],
-      "settings": {
-        "full_width": true,
-        "stack_on_mobile": false,
-        "gap": "medium",
-        "text_alignment": "center",
-        "subheading": "",
-        "title": "Ingrédients testés cliniquement",
-        "content": "",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
-    "rich_text_JEkECK": {
-      "type": "rich-text",
-      "blocks": {
-        "richtext_t6DjJt": {
-          "type": "richtext",
-          "settings": {
-            "content": "<h2><strong>U</strong>ne peau rajeunie<strong> en seulement 4 étapes</strong></h2>"
-          }
-        },
-        "richtext_x7NCKi": {
-          "type": "richtext",
-          "settings": {
-            "content": "<p>Les dermatologues recommandent <strong>un traitement toutes les 2 semaines</strong> pour des résultats optimaux.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "richtext_t6DjJt",
-        "richtext_x7NCKi"
-      ],
-      "custom_css": [
-        ".section-full {padding-bottom: 0px;}"
-      ],
-      "settings": {
-        "full_width": true,
-        "content_width": "small",
-        "text_position": "center",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
-    "how_to_use_sambal_mtLn7y": {
-      "type": "how-to-use-sambal",
-      "blocks": {
-        "step_7q9JWB": {
-          "type": "step",
-          "settings": {
-            "video": "",
-            "title": "",
-            "description": "Ouvrez le flacon et remplissez-le avec le sérum. Refermez sans forcer pour une application optimale.",
-            "alignment": "left"
-          }
-        },
-        "step_VCbrVx": {
-          "type": "step",
-          "settings": {
-            "video": "",
-            "title": "",
-            "description": "Retournez le flacon et laissez-le à l’envers pendant 2 minutes afin que les micro-aiguilles s’imprègnent parfaitement du sérum.",
-            "alignment": "left"
-          }
-        },
-        "step_QxA9A8": {
-          "type": "step",
-          "settings": {
-            "video": "",
-            "title": "",
-            "description": "Tapotez délicatement votre peau (visage, lèvres, cou, etc.). Répétez 2 à 3 fois pour des résultats visibles plus rapidement",
-            "alignment": "left"
-          }
-        },
-        "step_rTyP7G": {
-          "type": "step",
-          "settings": {
-            "video": "",
-            "title": "",
-            "description": "Massez l’excédent de sérum sur votre peau et laissez-le agir toute la nuit. Pour une routine complète, appliquez ensuite vos soins habituels.",
-            "alignment": "left"
-          }
-        }
-      },
-      "block_order": [
-        "step_7q9JWB",
-        "step_VCbrVx",
-        "step_QxA9A8",
-        "step_rTyP7G"
-      ],
-      "custom_css": [],
-      "settings": {}
-    },
     "faq_MQHPPV": {
       "type": "faq",
       "blocks": {
@@ -1001,8 +836,8 @@
         "title": "FAQ",
         "content": "",
         "team_avatar_width": 160,
-        "support_hours": "Notre service clientèle est disponible 7 jours sur 7.",
-        "answer_time": "Temps de réponse moyen : 24h",
+        "support_hours": "Unser Kundenservice ist 7 Tage die Woche erreichbar.",
+        "answer_time": "Durchschnittliche Antwortzeit: 24h",
         "button_text": "",
         "button_url": "",
         "text_position": "center",
@@ -1040,9 +875,6 @@
     "multi_column_BKPLPt",
     "featured-product",
     "tabs_Waa9zt",
-    "multi_column_wTJTNc",
-    "rich_text_JEkECK",
-    "how_to_use_sambal_mtLn7y",
     "faq_MQHPPV",
     "17359565654f612dcd"
   ]

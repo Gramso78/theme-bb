@@ -23,7 +23,7 @@
             "icon_background_type": "circle",
             "icon_background": "#b6cdd9",
             "icon_color": "#000000",
-            "title": "Satisfait ou remboursé",
+            "title": "Zufrieden oder Geld zurück",
             "content": ""
           }
         },
@@ -36,7 +36,7 @@
             "icon_background_type": "circle",
             "icon_background": "#b6cdd9",
             "icon_color": "#000000",
-            "title": "Service client 7J/7",
+            "title": "Kundenservice 7/7",
             "content": ""
           }
         },
@@ -49,7 +49,7 @@
             "icon_background_type": "circle",
             "icon_background": "#b6cdd9",
             "icon_color": "#000000",
-            "title": "Paiement Sécurisé",
+            "title": "Sicheres Bezahlen",
             "content": ""
           }
         },
@@ -62,7 +62,7 @@
             "icon_background_type": "circle",
             "icon_background": "#b6cdd9",
             "icon_color": "#000000",
-            "title": "Livraison Gratuite",
+            "title": "Kostenlose Lieferung",
             "content": ""
           }
         }
