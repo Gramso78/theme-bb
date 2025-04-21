@@ -318,7 +318,8 @@
       "empty": "Dein Warenkorb ist leer",
       "item_count": {
         "one": "{{ count }} Artikel",
-        "other": "{{ count }} Artikel"
+        "other": "{{ count }} Artikel",
+        "zero": ""
       },
       "continue_shopping": "Weiter einkaufen",
       "weight": "Gewicht",
@@ -743,6 +744,9 @@
       "search_results": {
         "many": "Suche: %{count} Ergebnisse für \"%{terms}\" gefunden"
       }
+    },
+    "links": {
+      "powered_by_shopify": " "
     }
   },
   "customer_accounts": {
