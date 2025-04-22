@@ -553,6 +553,12 @@
           "type": "quantity_selector",
           "settings": {}
         },
+        "kaching_bundles_app_block_6Le3Ji": {
+          "type": "shopify://apps/kaching-bundles/blocks/app-block/6c637362-a106-4a32-94ac-94dcfd68cdb8",
+          "settings": {
+            "product": "set-von-7-slips-auslaufsicher-luniva"
+          }
+        },
         "button_bmP6Nx": {
           "type": "button",
           "settings": {
@@ -587,6 +593,7 @@
         "description",
         "variant-picker",
         "quantity-selector",
+        "kaching_bundles_app_block_6Le3Ji",
         "button_bmP6Nx",
         "image_NnVtjL"
       ],
