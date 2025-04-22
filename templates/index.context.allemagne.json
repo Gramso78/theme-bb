@@ -12,5 +12,27 @@
   "context": {
     "market": "allemagne"
   },
-  "sections": {}
+  "sections": {
+    "featured-product": {
+      "settings": {},
+      "blocks": {},
+      "block_order": [
+        "vendor",
+        "liquid_UqCNKi",
+        "title",
+        "badges",
+        "image_pRggRB",
+        "price_xPjJmg",
+        "liquid_jnATdX",
+        "image_h9L7gC",
+        "rating",
+        "separator",
+        "description",
+        "variant-picker",
+        "kaching_bundles_app_block_6Le3Ji",
+        "button_bmP6Nx",
+        "image_NnVtjL"
+      ]
+    }
+  }
 }
