@@ -12,5 +12,19 @@
   "context": {
     "market": "allemagne"
   },
-  "sections": {}
+  "sections": {
+    "header": {
+      "settings": {
+        "logo": "shopify://shop_images/ChatGPT_Image_11_avr._2025__16_01_17-removebg-preview_bd2f7101-e007-42bf-ac68-a166848db0fd.png",
+        "layout": "logo_left_navigation_center",
+        "transparent_logo": "shopify://shop_images/ChatGPT_Image_11_avr._2025__16_01_17-removebg-preview_bd2f7101-e007-42bf-ac68-a166848db0fd.png",
+        "show_country_selector": true,
+        "show_country_name": false,
+        "background_opacity": 20,
+        "transparent_header_text_color": "#1a1a1a",
+        "menu_open_trigger": "click"
+      },
+      "blocks": {}
+    }
+  }
 }
