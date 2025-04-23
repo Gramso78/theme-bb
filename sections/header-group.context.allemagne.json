@@ -13,6 +13,13 @@
     "market": "allemagne"
   },
   "sections": {
+    "announcement-bar": {
+      "settings": {
+        "background": "#edc4c8",
+        "text_color": "#ffffff"
+      },
+      "blocks": {}
+    },
     "header": {
       "settings": {
         "logo": "shopify://shop_images/ChatGPT_Image_11_avr._2025__16_01_17-removebg-preview_bd2f7101-e007-42bf-ac68-a166848db0fd.png",
@@ -20,13 +27,6 @@
         "opening_from": "left",
         "transparent_header_text_color": "#1a1a1a",
         "reduce_padding": true
-      },
-      "blocks": {}
-    },
-    "announcement-bar": {
-      "settings": {
-        "background": "#c44443",
-        "text_color": "#ffffff"
       },
       "blocks": {}
     }
