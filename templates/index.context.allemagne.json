@@ -14,20 +14,22 @@
   },
   "sections": {
     "featured-product": {
-      "settings": {},
+      "settings": {
+        "background": "#ffffff"
+      },
       "blocks": {
         "button_bmP6Nx": {
           "settings": {
             "size": "lg",
             "stretch": true,
-            "background": "#fadadd",
-            "text_color": "#1a1a1a"
+            "background": "#92394f",
+            "text_color": "#ffffff"
           }
         }
       },
       "block_order": [
-        "vendor",
         "liquid_UqCNKi",
+        "vendor",
         "title",
         "badges",
         "image_pRggRB",
@@ -41,6 +43,24 @@
         "button_bmP6Nx",
         "image_NnVtjL"
       ]
+    },
+    "trust_pilot_reviews_AxNB3A": {
+      "settings": {
+        "background_color": "#ffffff"
+      },
+      "blocks": {}
+    },
+    "rich_text_QXqMJ7": {
+      "settings": {
+        "background": "#ffffff"
+      },
+      "blocks": {}
+    },
+    "multi_column_BKPLPt": {
+      "settings": {
+        "background": "#fadadd"
+      },
+      "blocks": {}
     }
   }
 }
