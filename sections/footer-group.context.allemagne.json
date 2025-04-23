@@ -20,6 +20,21 @@
           "settings": {
             "icon_background": "#ff6b6b"
           }
+        },
+        "customer-support": {
+          "settings": {
+            "icon_background": "#ff6b6b"
+          }
+        },
+        "payment": {
+          "settings": {
+            "icon_background": "#ff6b6b"
+          }
+        },
+        "free-shipping": {
+          "settings": {
+            "icon_background": "#ff6b6b"
+          }
         }
       }
     }
