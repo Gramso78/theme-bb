@@ -12,5 +12,16 @@
   "context": {
     "market": "allemagne"
   },
-  "sections": {}
+  "sections": {
+    "text-with-icons": {
+      "settings": {},
+      "blocks": {
+        "discount": {
+          "settings": {
+            "icon_background": "#ff6b6b"
+          }
+        }
+      }
+    }
+  }
 }

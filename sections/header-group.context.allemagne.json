@@ -25,7 +25,7 @@
     },
     "announcement-bar": {
       "settings": {
-        "background": "#92394f",
+        "background": "#c44443",
         "text_color": "#ffffff"
       },
       "blocks": {}
