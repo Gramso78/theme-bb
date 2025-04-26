@@ -498,7 +498,7 @@
             "size": "xl",
             "style": "fill",
             "stretch": true,
-            "background": "",
+            "background": "#f83a3a",
             "text_color": ""
           }
         },
@@ -644,6 +644,17 @@
         "text_color": "",
         "heading_color": "",
         "heading_gradient": ""
+      }
+    },
+    "1745671385d09c0293": {
+      "type": "apps",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
       }
     },
     "faq_MQHPPV": {
@@ -865,6 +876,7 @@
     "rich_text_QXqMJ7",
     "image_with_text_overlay_F6mJKh",
     "tabs_Waa9zt",
+    "1745671385d09c0293",
     "faq_MQHPPV",
     "17359565654f612dcd"
   ]
