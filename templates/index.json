@@ -853,24 +853,31 @@
         "accordion_text_color": ""
       }
     },
-    "1745865235245c3d49": {
+    "17458656596b0a0693": {
       "type": "apps",
       "blocks": {
-        "loox_reviews_loox_agg_section_4Jwz8y": {
-          "type": "shopify://apps/loox-reviews/blocks/loox-agg-section/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
+        "loox_reviews_loox_gallery_carousel_section_rtXFmT": {
+          "type": "shopify://apps/loox-reviews/blocks/loox-gallery-carousel-section/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
           "settings": {
-            "only_photos": false,
-            "hide_thumbnails": false,
-            "product_handle": "",
-            "aggregated": true,
-            "data-limit": 20,
-            "maxwidth": 1080,
-            "is_sample": false
+            "maxWidth": 1100,
+            "borderRadius": 60,
+            "itemsPerView": 5,
+            "mobileItemsPerView": 1,
+            "imageRatio": "1",
+            "reviewerNameColor": "#ffffff",
+            "starsColor": "#ffffff",
+            "arrows_backgroundColor": "#FFFFFF",
+            "arrows_iconColor": "#9A9A9A",
+            "shadow": "none",
+            "border_active": false,
+            "border_width": 2,
+            "border_color": "#000000",
+            "productIds": ""
           }
         }
       },
       "block_order": [
-        "loox_reviews_loox_agg_section_4Jwz8y"
+        "loox_reviews_loox_gallery_carousel_section_rtXFmT"
       ],
       "settings": {
         "full_width": true,
@@ -881,7 +888,18 @@
         "text_color": ""
       }
     },
-    "1745863072f3c497a5": {
+    "1745865450bed49452": {
+      "type": "apps",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "1745865235245c3d49": {
       "type": "apps",
       "settings": {
         "full_width": true,
@@ -906,7 +924,8 @@
     "tabs_Waa9zt",
     "1745671385d09c0293",
     "faq_MQHPPV",
-    "1745865235245c3d49",
-    "1745863072f3c497a5"
+    "17458656596b0a0693",
+    "1745865450bed49452",
+    "1745865235245c3d49"
   ]
 }
