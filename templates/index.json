@@ -887,28 +887,6 @@
         "background_gradient": "",
         "text_color": ""
       }
-    },
-    "1745865450bed49452": {
-      "type": "apps",
-      "settings": {
-        "full_width": true,
-        "remove_vertical_spacing": false,
-        "remove_horizontal_spacing": false,
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
-    "1745865235245c3d49": {
-      "type": "apps",
-      "settings": {
-        "full_width": true,
-        "remove_vertical_spacing": false,
-        "remove_horizontal_spacing": false,
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
     }
   },
   "order": [
@@ -924,8 +902,6 @@
     "tabs_Waa9zt",
     "1745671385d09c0293",
     "faq_MQHPPV",
-    "17458656596b0a0693",
-    "1745865450bed49452",
-    "1745865235245c3d49"
+    "17458656596b0a0693"
   ]
 }
