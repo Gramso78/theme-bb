@@ -837,8 +837,8 @@
         "title": "FAQ",
         "content": "",
         "team_avatar_width": 160,
-        "support_hours": "Unser Kundenservice ist 7 Tage die Woche erreichbar.",
-        "answer_time": "Durchschnittliche Antwortzeit: 24h",
+        "support_hours": "",
+        "answer_time": "",
         "button_text": "",
         "button_url": "",
         "text_position": "center",
@@ -874,6 +874,27 @@
         "background_gradient": "",
         "text_color": ""
       }
+    },
+    "contact_wkpMfd": {
+      "type": "contact",
+      "name": "Contact form",
+      "settings": {
+        "full_width": true,
+        "subheading": "Unser Kundenservice ist 7 Tage die Woche verfügbar. Durchschnittliche Antwortzeit: 24 Stunden.",
+        "title": "Eine Frage?",
+        "content": "<p>Schreiben Sie uns über das untenstehende Formular und wir werden Ihnen so schnell wie möglich antworten.<br/><br/></p>",
+        "text_position": "center",
+        "contact_form_size": "large",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "contact_background": "",
+        "contact_text_color": "",
+        "button_background": "#f83a3a",
+        "button_text_color": ""
+      }
     }
   },
   "order": [
@@ -890,6 +911,7 @@
     "1745671385d09c0293",
     "faq_MQHPPV",
     "1745866534c933cbd8",
-    "17458663066e6dbf3a"
+    "17458663066e6dbf3a",
+    "contact_wkpMfd"
   ]
 }
