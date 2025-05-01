@@ -853,6 +853,27 @@
         "accordion_text_color": ""
       }
     },
+    "contact_AV9RhA": {
+      "type": "contact",
+      "name": "Contact form",
+      "settings": {
+        "full_width": true,
+        "subheading": "Contact Us",
+        "title": "Do you have any question?",
+        "content": "",
+        "text_position": "start",
+        "contact_form_size": "large",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "contact_background": "",
+        "contact_text_color": "",
+        "button_background": "",
+        "button_text_color": ""
+      }
+    },
     "1745866534c933cbd8": {
       "type": "apps",
       "settings": {
@@ -874,27 +895,6 @@
         "background_gradient": "",
         "text_color": ""
       }
-    },
-    "contact_wkpMfd": {
-      "type": "contact",
-      "name": "Contact form",
-      "settings": {
-        "full_width": true,
-        "subheading": "Unser Kundenservice ist 7 Tage die Woche verfügbar. Durchschnittliche Antwortzeit: 24 Stunden.",
-        "title": "Eine Frage?",
-        "content": "<p>Schreiben Sie uns über das untenstehende Formular und wir werden Ihnen so schnell wie möglich antworten.<br/><br/></p>",
-        "text_position": "center",
-        "contact_form_size": "large",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": "",
-        "contact_background": "",
-        "contact_text_color": "",
-        "button_background": "#f83a3a",
-        "button_text_color": ""
-      }
     }
   },
   "order": [
@@ -910,8 +910,8 @@
     "tabs_Waa9zt",
     "1745671385d09c0293",
     "faq_MQHPPV",
+    "contact_AV9RhA",
     "1745866534c933cbd8",
-    "17458663066e6dbf3a",
-    "contact_wkpMfd"
+    "17458663066e6dbf3a"
   ]
 }
