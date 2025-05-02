@@ -62,6 +62,11 @@
         "type": "shopify://apps/loox-reviews/blocks/loox-inject/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
         "disabled": false,
         "settings": {}
+      },
+      "643381569867433295": {
+        "type": "shopify://apps/infinite-fb-tiktok-pixels/blocks/app-embed/66ae554b-dfd3-49ce-89e3-201f6854e21d",
+        "disabled": false,
+        "settings": {}
       }
     }
   },
