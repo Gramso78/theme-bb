@@ -28,7 +28,7 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "sm",
-        "image": "shopify://shop_images/Culotte_Anti-fuite1-min.gif",
+        "image": "shopify://shop_images/culotteface-min.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -93,8 +93,8 @@
         "title": "Gesehen auf:",
         "content": "",
         "text_alignment": "center",
-        "items_per_row": 5,
-        "background": "",
+        "items_per_row": 4,
+        "background": "#ffffff",
         "background_gradient": "",
         "text_color": "",
         "heading_color": "",
@@ -121,9 +121,9 @@
       ],
       "settings": {
         "full_width": true,
-        "content_width": "small",
+        "content_width": "medium",
         "text_position": "center",
-        "background": "",
+        "background": "#fadadd",
         "background_gradient": "",
         "text_color": ""
       }
@@ -501,13 +501,6 @@
             "background": "#f83a3a",
             "text_color": ""
           }
-        },
-        "image_NnVtjL": {
-          "type": "image",
-          "settings": {
-            "alignment": "center",
-            "max_width": 500
-          }
         }
       },
       "block_order": [
@@ -523,8 +516,7 @@
         "separator",
         "description",
         "kaching_bundles_app_block_7Nchrz",
-        "button_bmP6Nx",
-        "image_NnVtjL"
+        "button_bmP6Nx"
       ],
       "settings": {
         "full_width": false,
@@ -590,7 +582,7 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/ChatGPT_Image_17_avr._2025_18_22_01.png",
+        "image": "shopify://shop_images/ChatGPT_Image_7_mai_2025_17_48_29.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
