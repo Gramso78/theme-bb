@@ -444,7 +444,7 @@
         "item_7BdeiK": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/717dbfb5-3f49-4f5b-bded-dbcee3aa022d.webp",
+            "image": "shopify://shop_images/Design_sans_titre_4.png",
             "column_size": "3",
             "title": "Violet S.",
             "heading_tag": "h4",
@@ -457,7 +457,7 @@
         "item_JJLm4U": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/250a09e4-76b6-4f3e-8442-6238b8d5f573.webp",
+            "image": "shopify://shop_images/Design_sans_titre_6.png",
             "column_size": "3",
             "title": "Hannah W.",
             "heading_tag": "h4",
@@ -470,8 +470,8 @@
         "item_GECyWQ": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Adfe9828c997c48fdbc51e9f26e011bedL.jpg_-_1.webp",
-            "column_size": "4",
+            "image": "shopify://shop_images/Design_sans_titre_8.png",
+            "column_size": "3",
             "title": "Zoey R.",
             "heading_tag": "h4",
             "content": "<p><em>\"Meine Tochter nutzt sie für ihre ersten Perioden – sie fühlt sich sicher und wohl. Für mich als Mutter ist das ein großer Pluspunkt.\"</em></p>",
@@ -515,42 +515,6 @@
             "link_text": "",
             "link_style": "link"
           }
-        },
-        "item_EwNkYx": {
-          "type": "item",
-          "settings": {
-            "column_size": "3",
-            "title": "Autumn U",
-            "heading_tag": "h4",
-            "content": "<p><em>\"Ich musste mich erst an das Gefühl gewöhnen, aber nach 2 Tagen war ich überzeugt.\"</em></p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_yViHK3": {
-          "type": "item",
-          "settings": {
-            "column_size": "3",
-            "title": "Leah X.",
-            "heading_tag": "h4",
-            "content": "<p><em>\"Ich benutze die Slips tagsüber im Büro und nachts – kein Auslaufen, kein Geruch, einfach angenehm. Ich bin begeistert.\"</em></p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_JUW7xR": {
-          "type": "item",
-          "settings": {
-            "column_size": "3",
-            "title": "Claire C.",
-            "heading_tag": "h4",
-            "content": "<p><em>\"Ich trage sie auch an normalen Tagen – sie sind einfach bequemer als jede Unterwäsche, die ich bisher hatte.\"</em></p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
         }
       },
       "block_order": [
@@ -559,14 +523,11 @@
         "item_GECyWQ",
         "item_MwJML3",
         "item_p6MkDp",
-        "item_4yzaE8",
-        "item_EwNkYx",
-        "item_yViHK3",
-        "item_JUW7xR"
+        "item_4yzaE8"
       ],
       "settings": {
         "full_width": true,
-        "stack_on_mobile": false,
+        "stack_on_mobile": true,
         "gap": "medium",
         "text_alignment": "center",
         "subheading": "",
